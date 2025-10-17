@@ -25,8 +25,6 @@ This project aims to create an **Assistive Robot** that can safely navigate its 
 - **Arduino Nano BLE 33 Sense** (sensor module)
 - **Motor Driver (L298N / similar)**
 - **Ultrasonic sensors** (for obstacle detection)
-- **DHT11/DHT22** (for temperature and humidity sensing)
-- **OLED display (SSD1306)** (for feedback)
 - **Power supply (Li-ion or USB)**
 - **Chassis with wheels / rover base**
 
@@ -49,8 +47,7 @@ Make sure to disconnect RX/TX when uploading new code.
 
 - Obstacle detection and navigation
 - Wireless communication using ESP32
-- Sensor monitoring (temperature, humidity, distance)
-- Real-time display updates
+- Sensor monitoring ( distance)
 - Modular firmware for easy updates
 
 ---
@@ -81,7 +78,7 @@ Open Serial Monitor on both boards and verify messages are exchanged correctly.
 - Add AI-based path planning  
 - Integrate camera or computer vision  
 - Improve chassis design for better maneuverability  
-- Add solar charging for sustainability  
+    
 
 ---
 
