@@ -8,7 +8,7 @@ This project aims to create an **Assistive Robot** that can safely navigate its 
 
 | File / Folder | Description |
 |----------------|-------------|
-| **CAD/** | 3D model and design files for the robot chassis and components. |
+| **CAD/** | 3D model and design files for the robot chassis. |
 | **ESP32-2.ino** | Code for the ESP32 microcontroller (main control). |
 | **ESP32COM.ino** | Communication test code for ESP32. |
 | **ESP32COM2.ino** | Alternate ESP32 communication version. |
