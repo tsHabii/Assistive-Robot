@@ -16,6 +16,7 @@ This project aims to create an **Assistive Robot** that can safely navigate its 
 | **NanoBLE33COM.ino** | Communication code for Arduino Nano BLE 33 Sense. |
 | **Schematic Assistive Robot.png** | Circuit schematic showing connections between sensors, motors, and controllers. |
 | **README.md** | This file — project overview and documentation. |
+| **UserManual** | Demonstration of how to set up the assistive robot. |
 
 ---
 
