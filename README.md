@@ -59,6 +59,14 @@ Make sure to disconnect RX/TX when uploading new code.
 
 ---
 
+##  CAD
+
+<img width="925" height="562" alt="Robot CAD" src="https://github.com/user-attachments/assets/f77bfdb5-4d3d-4d39-96cb-40e8130b7048" />
+
+
+
+---
+
 ## 🚀 Getting Started
 
 ### 1️⃣ Upload Code
