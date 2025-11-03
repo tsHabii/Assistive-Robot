@@ -63,6 +63,13 @@ Make sure to disconnect RX/TX when uploading new code.
 
 <img width="925" height="562" alt="Robot CAD" src="https://github.com/user-attachments/assets/f77bfdb5-4d3d-4d39-96cb-40e8130b7048" />
 
+---
+
+##  Mo Robot
+
+![Videoframe_20251103_151231_com huawei himovie overseas](https://github.com/user-attachments/assets/508a33a5-cf65-41d1-84b1-8118b4290048)
+
+
 
 
 ---
